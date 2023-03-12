@@ -1,0 +1,151 @@
+body {
+  background-color: #1b1c1d;
+  color: #f2f2f2;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+label {
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+input {
+  font-size: 18px;
+  padding: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  font-size: 20px;
+  padding: 5px 15px;
+  background-color: transparent;
+  /* color: white; */
+  border: none;
+  cursor: pointer;
+  margin-top: -10px;
+}
+
+#chat-log {
+  margin-top: 50px;
+  padding: 20px;
+  /* background-color: #f2f2f2; */
+  max-height: 500px;
+  overflow-y: auto;
+}
+
+.bot-message {
+  background-color: #131313;
+}
+
+body {
+  background-color: #1b1c1d;
+  color: #f2f2f2;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+label {
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+input {
+  font-size: 18px;
+  padding: 5px;
+  border: 1px solid #ccc;
+}
+
+/* button {
+  font-size: 20px;
+  padding: 5px 15px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  margin-top: -10px;
+} */
+
+#chat-log {
+  margin-top: 50px;
+  padding: 20px;
+  /* background-color: #f2f2f2; */
+  max-height: 500px;
+  overflow-y: auto;
+}
+
+.bot-message {
+  background-color: #131313;
+}
+
+
+
+textarea {
+  background-color: #333;
+  color: #f2f2f2;
+  font-size: 18px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  width: 681px;
+  height: 27px;
+  resize: none;
+}
+
+main_img{
+  font-size: 20px;
+  size: 10px;
+  width: 1em;
+  height: 1em;
+  font-size: 1.5em;
+}
+
+/* textarea {
+  background-color: #333;
+  color: #f2f2f2;
+  font-size: 18px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  width: 681px;
+  height: 27px;
+  resize: none;
+} */
+
+main_img{
+  font-size: 20px;
+  size: 10px;
+  width: 1em;
+  height: 1em;
+  font-size: 1.5em;
+}
+
+/* #chat-log {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 70px;
+  left: 0;
+  overflow-y: scroll;
+} */
