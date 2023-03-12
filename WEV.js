@@ -1,6 +1,7 @@
 let previousUserInput = '';
 const { Configuration, OpenAIApi } = require("openai");
 const configuration = new Configuration({
+  //i realy dont care about this api key
   apiKey: "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"
 });
 const openai = new OpenAIApi(configuration);
