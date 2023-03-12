@@ -31,27 +31,4 @@ textButton.addEventListener("click", async (e) => {
 });
 
 
-// import { ChatGPTAPIBrowser } from 'chatgpt'
-
-
-// async function example() {
-//   const api = new ChatGPTAPIBrowser({
-//     email: 'fuhdcjkpaaoqsi@nightorb.com',
-//     password: 'BFzqOdl_',
-//     proxyServer: '155.94.220.8:1994'
-//   })
-
-//   await api.initSession()
-
-//   const result = await api.sendMessage("what are rats")
-//   // res = await api.sendMessage('Can you expand on that?', {
-//   //   conversationId: res.conversationId,
-//   //   parentMessageId: res.messageId
-//   // })
-//   console.log(result.response)
-// }
-
-// example()
-
-
 
